@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Thilina Sanjeewa
 ### 📱 Android Developer  |  📱 iOS Developer
 
-|  <img src="https://github.com/thilina-dev/thilina-dev/blob/main/giphy.gif" width="400"/> | <img src="https://github.com/thilina-dev/thilina-dev/blob/main/1.gif" width="400"/> |
+|  <img src="https://github.com/thilina-dev/thilina-dev/blob/main/giphy.gif" width="400" height="350"/> | <img src="https://github.com/thilina-dev/thilina-dev/blob/main/1.gif" width="400" height="350"/> |
 | ------------- | ------------- |
 
 
