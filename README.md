@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Thilina Sanjeewa
 ### 📱 Android Developer  |  📱 iOS Developer
 
-<img src="https://github.com/thilina-dev/thilina-dev/blob/main/2.gif"/>
+<img src="https://i.pinimg.com/originals/50/98/a8/5098a880c0aa330af1ce07c35d20f149.jpg"/>
 
 
 
