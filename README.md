@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Thilina Sanjeewa
 #### 📱 Android Developer  |  📱 iOS Developer
-![android & iOS Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFLb_rG6qE-1A/profile-displaybackgroundimage-shrink_200_800/0/1607083890796?e=1613001600&v=beta&t=6UyEV0OuL0rApam_RRuE3u_zrJ0CxXOw8D3_KQgqOAY)
+![android & iOS Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Foms.systems%2F&psig=AOvVaw3NnHyBqsqtfuz1jQQZUO-a&ust=1607672417678000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjRjaH1wu0CFQAAAAAdAAAAABAD)
 
 👋 hi! & I'm :  
 ⚫ self taught programmer 📚👨‍💻  
