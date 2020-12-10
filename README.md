@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Thilina Sanjeewa
 ### 📱 Android Developer  |  📱 iOS Developer
 
-<img src="https://i.pinimg.com/originals/50/98/a8/5098a880c0aa330af1ce07c35d20f149.jpg"/>
+<img src="https://github.com/thilina-dev/thilina-dev/blob/main/giphy.gif"/>
 
 
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/thilina98/)&nbsp;&nbsp;&nbsp;[<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg' alt='github' height='30' >](https://github.com/thilina-dev)&nbsp;&nbsp;&nbsp;[<img src='https://www.flaticon.com/svg/static/icons/svg/174/174855.svg' alt='instagram' height='30'>](https://www.instagram.com/___thilina/)&nbsp;&nbsp;&nbsp;[<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='30'>](https://twitter.com/___thilina)&nbsp;&nbsp;&nbsp;[<img src='https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg' alt='facebook' height='30'>](https://www.facebook.com/thIlIna814)
 
 
-| First Header  | Second Header |
+|  <img src="https://github.com/thilina-dev/thilina-dev/blob/main/giphy.gif"/> | https://github.com/thilina-dev/thilina-dev/blob/main/1.gif |
 | ------------- | ------------- |
 
 
