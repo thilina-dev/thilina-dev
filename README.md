@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Thilina Sanjeewa
-#### 📱 Android Developer  |  📱 iOS Developer
+## Thilina Sanjeewa
+### 📱 Android Developer  |  📱 iOS Developer
+
+<img src="https://github.com/thilina-dev/thilina-dev/blob/main/aboutme.gif" width="256"/>
+
 
 
 👋 hi! & I'm :  
