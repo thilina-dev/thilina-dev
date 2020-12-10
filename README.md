@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning devops | aws cloud development | cloud architect 
 
 ### ☎️ contact me 
-[<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg' alt='github' height='30' >](https://github.com/thilina-dev)  [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/thilina98/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg' alt='facebook' height='30'>](https://www.facebook.com/thIlIna814)  [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174855.svg' alt='instagram' height='30'>](https://www.instagram.com/___thilina/)       [<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='30'>](https://twitter.com/___thilina)  
+[<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg' alt='github' height='30' padding='20' >](https://github.com/thilina-dev)  [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/thilina98/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg' alt='facebook' height='30'>](https://www.facebook.com/thIlIna814)  [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174855.svg' alt='instagram' height='30'>](https://www.instagram.com/___thilina/)       [<img src='https://www.flaticon.com/svg/static/icons/svg/733/733579.svg' alt='twitter' height='30'>](https://twitter.com/___thilina)  
 
 
 
