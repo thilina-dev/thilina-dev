@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 Skills
 - 📱 flutter | dart | kotlin  
 - ☁️ firebase | aws
-- ⚙️ node.JS | mongoDB
+- ⚙️ node.JS | mongoDB | python
 - 💻 HTML | CSS | JS
 <p align="left">
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> 
