@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 |  <img src="https://github.com/thilina-dev/thilina-dev/blob/main/giphy.gif" width="400" height="250"/> | <img src="https://github.com/thilina-dev/thilina-dev/blob/main/1.gif" width="400" height="250"/> |
 
 
-👋 hi! & I'm :  
-⚫ self taught programmer 📚👨‍💻  
-⚫ android developer 📱👨‍💻  
-⚫ iOS developer 📱👨‍💻  
-⚫ freelancer 🏠👨‍💻  
-⚫ PC gamer 💻 🎮  
-⚫ metalhead 🎧😈  
-⚫ hiker ⛰️🚶  
-⚫ sri lankan 🙏🇱🇰     
+### 👋 hi! & I'm :  
+- self taught programmer 📚👨‍💻  
+- android developer 📱👨‍💻  
+- iOS developer 📱👨‍💻  
+- freelancer 🏠👨‍💻  
+- PC gamer 💻 🎮  
+- metalhead 🎧😈  
+- hiker ⛰️🚶  
+- sri lankan 🙏🇱🇰     
 
 ### 👨‍💻 Skills : 
 - 📱 flutter | dart | kotlin  
