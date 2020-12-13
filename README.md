@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### 👋 hi, I'm :  
-##### self taught programmer 📚👨‍💻  
+###### - self taught programmer 📚👨‍💻  
 - android developer 📱👨‍💻  
 - iOS developer 📱👨‍💻  
 - freelancer 🏠👨‍💻  
