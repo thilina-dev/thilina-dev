@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 
 ### 👋 hi, I'm :  
-###### - self taught programmer 📚👨‍💻  
-- android developer 📱👨‍💻  
-- iOS developer 📱👨‍💻  
-- freelancer 🏠👨‍💻  
-- PC gamer 💻 🎮  
-- metalhead 🎧😈  
-- hiker ⛰️🚶  
-- sri lankan 🙏🇱🇰     
+##### - self taught programmer 📚👨‍💻  
+##### - android developer 📱👨‍💻  
+##### - iOS developer 📱👨‍💻  
+##### - freelancer 🏠👨‍💻  
+##### - PC gamer 💻 🎮  
+##### - metalhead 🎧😈  
+##### - hiker ⛰️🚶  
+##### - sri lankan 🙏🇱🇰     
 
 ### 👨‍💻 Skills : 
 - 📱 flutter | dart | kotlin  
